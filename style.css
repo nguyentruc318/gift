@@ -5,7 +5,7 @@ html{
     font-size: 62.5%;
 }
 body{
-    height: 80vh;
+    height: 88vh;
 
     display: flex; 
     justify-content: center;
@@ -22,7 +22,7 @@ body{
     flex-direction: column;
 }
 .container{
-    height: 70vh;
+    height: 73vh;
     display: grid;
     place-items: center;
 }
@@ -80,7 +80,7 @@ body{
 }
 .container .heart{
     position: absolute;
-    top: 32%;
+    top: 36%;
     left: 50%;
     width: 30px;
     height: 30px;
@@ -255,7 +255,7 @@ body{
     height: 131.5px;
     background-image: url(https://images.viblo.asia/54edb252-47ae-4c41-8bd8-6dda83f6cd7c.png);
     /* background: #000; */
-    top:610px ;
+    top:650px ;
     left:630px;
     animation: hehe 2.5s infinite steps(1);
 }
